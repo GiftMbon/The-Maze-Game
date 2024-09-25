@@ -1,5 +1,9 @@
-3D Maze Game
+3D MAZE GAME 
+
+
+
 ![Screenshot (1)](https://github.com/user-attachments/assets/50057c4a-7642-4ca5-b977-bc4edca87fd9)
+
 
 
 Overview
@@ -34,7 +38,7 @@ Compile the project using g++ with SDL2 linked:
 g++ -Isrc/include -Lsrc/lib -o maze maze.cpp -lmingw32 -lSDL2main -lSDL2
 
 #Running the Game
-Run the compiled program:
+Run the compiled program:  
 ./maze.exe
 
 
