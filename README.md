@@ -1,4 +1,7 @@
 3D Maze Game
+![Screenshot (1)](https://github.com/user-attachments/assets/50057c4a-7642-4ca5-b977-bc4edca87fd9)
+
+
 Overview
 
 The 3D Maze Game is a simple 3D rendering engine built using SDL2, allowing players to navigate through a maze. The game employs raycasting to render the 3D environment, providing a retro-style gaming experience reminiscent of classic first-person shooters.
